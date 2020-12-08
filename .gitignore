@@ -1,0 +1,10 @@
+user/node_modules
+user/build
+api/data/
+api/Pipfile.lock
+api/data
+api/image_upload_utils
+api/spark-warehouse
+api/__pycache__
+api/inference/__pycache__
+user/package-lock.json
